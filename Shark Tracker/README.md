@@ -1,3 +1,2 @@
 # Shark-Tracker-App
-Uses Jaws API
-open Source/ocearch and then run Main
+Compile and run the main class found in source/osearch
